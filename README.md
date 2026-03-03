@@ -1,8 +1,7 @@
-## Hi there 👋 I'm Tripuresh Murau
+## Hi 👋, I'm Tripuresh Murau
 
 
-## Hi there 👋 I'm Software Devloper.
+Email:kushwahatripuresh@gmail.com
+www.linkedin.com/in/tripuresh-murau-52b9692b9
 
-
-
-- 🌱 I’m currently learning Java 
+I'm Software Devloper.
